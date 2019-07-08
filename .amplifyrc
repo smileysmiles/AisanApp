@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "simplepam-20190502105305-authRole",
+            "UnauthRoleArn": "arn:aws:iam::149560150518:role/simplepam-20190502105305-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::149560150518:role/simplepam-20190502105305-authRole",
+            "Region": "eu-west-2",
+            "DeploymentBucketName": "simplepam-20190502105305-deployment",
+            "UnauthRoleName": "simplepam-20190502105305-unauthRole",
+            "StackName": "simplepam-20190502105305",
+            "StackId": "arn:aws:cloudformation:eu-west-2:149560150518:stack/simplepam-20190502105305/153e0ee0-6cc0-11e9-bd52-0a1170ef5528"
+        }
+    }
+}
